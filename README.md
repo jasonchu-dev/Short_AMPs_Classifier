@@ -4,7 +4,10 @@ QSAR machine learning model (Quantitative structure–activity relationship). Ra
 ## Run
 Install modules and get dataset
 ```
-    bash scripts/setup.sh
+bash scripts/setup.sh
 ```
-
-Use notebook.
+Use notebook
+When done, go back to lastest setuptools
+```
+pip install --upgrade setuptools
+```
